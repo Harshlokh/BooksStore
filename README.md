@@ -1,6 +1,6 @@
 ﻿# BooksStore
 
-Link to my Screen recording of project ""
+Link to my Screen recording of project "https://www.loom.com/share/5ed3d8037b514eb4aa7a3042339647b4?sid=9237222c-85d6-40f9-b4dc-cc20dda14a29"
 
 use npm install for both the client and server folders 
 
