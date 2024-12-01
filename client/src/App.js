@@ -44,14 +44,13 @@ function App() {
       <Routes>
         <Route path='/' element={<Login />} />
         <Route path='/signup' element={<Signup />} />
-        {/* <Route path='/home' element={ <Home /> } /> */}
         <Route element={<PrivateRoutes />}>
           <Route path='/home' element={<Home />} />
           <Route path='/APD' element={<AdminPageDash  pages={pages} isAdmin={isAdmin} deletePage={deletePage} />} /> 
           <Route path="/add" element={<AddContentUser addPage={addPage} />} />
-          <Route path="/admin" element={<AdminLogin setIsAdmin={setIsAdmin} />} />
-
         </Route>
+        <Route path="/admin" element={<AdminLogin setIsAdmin={setIsAdmin} />} />
+
       </Routes>
     </Router>
 

@@ -35,7 +35,7 @@ function BookApp() {
     <h1 className="special text-3xl md:text-4xl lg:text-6xl mt-10">Pyramid the <br/> Ancient History</h1>
     <p className="text-sm sm:text-xl mt-3 font-bold ">Existing stories and much more on the greatest book <br/>of all time Zatura .</p>
     <p className="special text-3xl mt-5 sm:mt-10">₹12000</p>
-   <a href="/add"><button className="mt-4 sm:mt-10 mb-28 px-4 w-[6rem] mx-2 my-2 sm:w-[10rem] rounded-lg py-2 bg-green-400 hover:bg-green-700 ">Borrow now</button></a>
+   <a href="/add"><button className="mt-4 sm:mt-10 mb-28 px-4 text-[10px] sm:text-sm w-[6rem] mx-2 my-2 sm:w-[10rem] rounded-lg py-2 bg-green-400 hover:bg-green-600 ">Borrow now</button></a>
     </div>
     
     <div>
@@ -68,7 +68,10 @@ function BookApp() {
           </div>
         ))}
       </div>
-      <div className="bg-[#61cf70] px-2 py-2 text-white font-medium flex justify-center items-center  ">
+      <div className="bg-[#61cf70] mt-8">
+      <a href="/admin" ><button className="bg-[#61cf70] px-3 text-sm rounded-md py-1 text-[#61cf70] ">Admin login</button> </a>
+      </div>
+      <div className="bg-[#61cf70] px-2 py-2  text-white font-medium flex justify-center items-center  ">
         Copyright- Harsh Books librarymanagement system
       </div>
     </div>

@@ -94,7 +94,7 @@ const Login = () => {
       </LoginForm>
       <p className="text-xl text-white underline">or</p>
       <Link to={"/signup"} className="text-white hover:text-red-600 sm:text-2xl spec mb-5 underline font-bold  hover:decoration-red-600 decoration-green-400">Not registered yet? click here to signup</Link>
-      <a href="/admin"  ><button className="bg-[#61cf70] px-3 text-sm rounded-md py-1 text-white ">Admin login</button> </a>
+      <a href="/admin" ><button className="bg-[#61cf70] px-3 text-sm rounded-md py-1 text-white ">Admin login</button> </a>
 
     </LoginContainer>
   );

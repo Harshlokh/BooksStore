@@ -9,7 +9,7 @@ const AdminLogin = ({ setIsAdmin }) => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    if (username === 'HarshLokhande' && password === 'Harsh123') {
+    if (username === 'Libmanager' && password === 'Lib#123') {
       setIsAdmin(true);
       navigate('/APD');
     } else {
@@ -50,7 +50,6 @@ const AdminLogin = ({ setIsAdmin }) => {
         />
         </div>
         {error && <p style={{ color: 'red' }}>{error}</p>}
-
         <button type="submit" className='bg-[#61cf70] text-white hover:bg-green-500 px-6 py-1 rounded-lg mt-4'>Login</button>
       </form>
       </div> 

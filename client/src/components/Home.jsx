@@ -27,6 +27,7 @@ const Logout = styled.button`
 
 const Home = () => {
   const navigate = useNavigate();
+  
   const token = localStorage.getItem("token");
   let email = "";
 

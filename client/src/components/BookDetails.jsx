@@ -9,12 +9,17 @@ const BookDetails = () => {
   return (
     <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center">
       <div className="bg-white  w-11/12 md:w-3/4 lg:w-1/2 rounded-lg p-6 shadow-lg relative">
+        
+        {/* To close the modal oppen for viewing details of book */}
+         
         <button
           onClick={() => setSelectedBook(null)} // Close details view
           className="absolute top-1 right-1  h-[50px]  text-white border-2 border-red-800 bg-red-600 hover:text-green-100 text-5xl  font-bold"
         >
           &times;
         </button>
+
+        
         <img
           src={selectedBook.coverImg}
           alt={`${selectedBook.authorName}'s book`}
