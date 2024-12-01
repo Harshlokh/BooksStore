@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "authorName": "J.K. Rowling",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJfqI7BJuKlIptcelm_KHPWaKVFwU6Var2bXayJb_LeSaTq-QbD6BBQrph9AdgQB0Dvw&usqp=CAU",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "authorName": "April genevieve tucholke",
+      "coverImg": "https://designerpeople.com//wp-content/uploads/2020/02/illustrated-design-book-cover-1.jpg",
+      "price": 69.99
+    },
+    {
+      "id": 3,
+      "authorName": "The causal optimist",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdTk-7eHQfwWbR0F9krv4GKFpS6F6TDT3dA&s",
+      "price": 19.99
+    },
+    {
+      "id": 4,
+      "authorName": "Jennifer savran kelly",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJT-6hfcNpaeDBCAey3buoOGUYUNmF_3L_dq7jPrZGYd9PUBChEiNRztUacQZofezRpY&usqp=CAU",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "authorName": "Abraham verghese",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAYNRKrnmasH0LmgOynnPqKmiNEbXvC6x4G5Ghi4zOMizQeJqR2N7_pZkIXsJPQdNkrY&usqp=CAU",
+      "price": 99.99
+    },
+    {
+      "id": 6,
+      "authorName": "Hannan lee jones",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQioK37aQWE5ek1E_sDdJ1f6jm46JRE6eUzny2cIMgHVRHC07rVIEHAKEcIytAof3yT9KI&usqp=CAU",
+      "price": 20
+    },
+    {
+      "id": 7,
+      "authorName": "Hemingway",
+      "coverImg": "https://i.pinimg.com/236x/8a/04/ed/8a04ed1684c427daeed111a6d5964249.jpg",
+      "price": 32.99
+    },
+    {
+      "id": 8,
+      "authorName": "Peter Benchley",
+      "coverImg": "https://cdn-jlein.nitrocdn.com/orVjFHVeeKCFKIcyrYpCzZsveEABSlhk/assets/images/optimized/rev-3471ed2/www.papertrue.com/blog/wp-content/uploads/2023/11/29Jaws_1974_front_cover_first_edition.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 9,
+      "authorName": "Marion dane bauer",
+      "coverImg": "https://i.pinimg.com/236x/66/f9/27/66f92762e1a7a1a76f38438c0c33c6e4.jpg",
+      "price": 11.99
+    },
+    {
+      "id":10,
+      "authorName": "sydney sherrill",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmJ7oKez7ASUwrhNlB52R-xZ9GFeop104T8fKA_lR4DRLJFynS-sgOvkJiJUkQCJmtug&usqp=CAU",
+      "price": 99.99
+    },
+    {
+      "id": 11,
+      "authorName": "Patric clark",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5UWeJSY8f2uZR3pgxvFeAAUPQDjwRCF7P5SK434kbMT-XUSGTcnWnY-NeeNNWZR5HyI&usqp=CAU",
+      "price": 66.99
+    },
+    {
+      "id": 12,
+      "authorName": "james Clear",
+      "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWfrQF_TWnRF4Jx1IvvY9UQ0-8EvAd3q0aw&s",
+      "price": 10.99
+    }
+    
+  ]
+  
